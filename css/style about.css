@@ -1076,7 +1076,7 @@ line-height: 24px;
   padding: 104px 59px 20px 28px;
 }
 .benefits__cardds {
-  margin-bottom: -58px;
+  margin-bottom: -97px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 21px;
@@ -1085,7 +1085,7 @@ line-height: 24px;
 }
 @media screen and (max-width: 500px) {
   .benefits__cardds {
-  margin-bottom: -199px;
+  margin-bottom: -97px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 21px;
