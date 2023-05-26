@@ -427,6 +427,8 @@ padding-top:  80px;
 .top__card-pic {
   position: relative;
   margin-bottom: 45px;
+ height: 300px;
+  width: 300px;
 }
 
 .top__card-stats {
@@ -650,7 +652,7 @@ line-height: 24px;
   align-items: left;
 }
   .top__card {
-    grid-column: span 2;
+    grid-column: span 6;
   }
   .top__card-pic {
     margin-bottom: 25px;
